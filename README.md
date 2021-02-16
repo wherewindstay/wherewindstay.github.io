@@ -1,6 +1,6 @@
 # Asko
 
-Asko is a simple and minimalistic jekyll blogging theme. 
+Asko is a simple and minimalistic jekyll blogging theme.  
 Forked from [Sidey theme](https://github.com/ronv/sidey).  
 Thanks to [Asko Nõmm](https://www.askonomm.com/) that gave me permission to copy his blog theme.
 
