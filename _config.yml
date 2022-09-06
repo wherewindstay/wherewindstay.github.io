@@ -1,17 +1,12 @@
-site: test
+site: wherewindstay
 url: #yoururl
 title: wherewindstay
-description: Simple and minimalistic jekyll blogging theme.
+description: Visualizations and Data Analysis.
 googlewebfonts: Fira+Code:wght@400;500;700
-twitter:
-  username: #yourusername
-  card: summary
-  creator: #yourusername
 author:
-  twitter: #yourusername
-  name: #yourusername
+  name: Sohyun Park
   avatar:
-  email: #youremail
+  email: wherewindstay@gmail.com
   url: #yoururl
 permalink: pretty
 
