@@ -17,6 +17,6 @@ tags: [typography]
  <html>
       <head>  </head>
       <body>
-      _post_files/figure-gfm/aa.html
+      _posts/_post_files/figure-gfm/aa.html
       </body>
  </html>
